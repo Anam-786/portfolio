@@ -1,0 +1,37 @@
+.greetings-title{
+    background-color:#2E6FA0;
+    height: 200px;
+    width:100%;
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+
+}
+.title{
+     font-family: "Edu NSW ACT Cursive", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.hero-title{
+    background-color: wheat;
+    
+    height: 500px;
+
+}
+.d-block{
+    border-radius: 50%;
+}
+.projects-title{
+    background-color:#49A4BB ;
+
+}
+.item{
+    height: 100px;
+    width: 100px;
+    border: solid beige;
+}
+.proj{
+    margin-bottom: 5px;
+}
