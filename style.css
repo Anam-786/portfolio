@@ -35,3 +35,10 @@
 .proj{
     margin-bottom: 5px;
 }
+.greetings {
+    background-color: #2E6FA0 !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 200px !important;
+}
